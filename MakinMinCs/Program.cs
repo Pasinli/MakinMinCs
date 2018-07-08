@@ -12,6 +12,7 @@ namespace MakingMin
     class Program
     {
         //asim taskin
+        kokok
 
         static void Main(string[] args)
         {
