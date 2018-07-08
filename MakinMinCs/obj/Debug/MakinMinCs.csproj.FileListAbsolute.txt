@@ -1,0 +1,6 @@
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\bin\Debug\MakinMinCs.exe.config
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\bin\Debug\MakinMinCs.exe
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\bin\Debug\MakinMinCs.pdb
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.csprojResolveAssemblyReference.cache
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.exe
+c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.pdb
