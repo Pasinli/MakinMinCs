@@ -4,3 +4,6 @@ c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMin
 c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.csprojResolveAssemblyReference.cache
 c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.exe
 c:\users\hakan.pasinli\documents\visual studio 2015\Projects\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.pdb
+C:\Users\asim.taskin\Documents\GitHub\MakinMinCs\MakinMinCs\bin\Debug\MakinMinCs.exe.config
+C:\Users\asim.taskin\Documents\GitHub\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.exe
+C:\Users\asim.taskin\Documents\GitHub\MakinMinCs\MakinMinCs\obj\Debug\MakinMinCs.pdb
